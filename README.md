@@ -44,6 +44,12 @@ The execution pipeline enforces a **Desktop-First Stabilization Protocol**. The 
 * **Tech Stack:** Flask Framework, HTML5, CSS3, JavaScript.
 * **Core Metrics:** Syncing custom typing indicators and live aura visualizations with model inference cycles. Wiping temporary logs instantly via secure cache-cleaner hooks.
 
+### 📍 Phase 4.5: Autonomous Sandbox Evolution**
+
+* **Objective:** Enable ARK to safely write, test, and integrate new operational modules autonomously under developer consensus without altering core system files.
+* **Tech Stack:** Python virtualenv, Subprocess Isolation API, Git Rollback Hooks.
+* **Core Metrics:** Dynamic extraction of library dependencies inside an isolated testing environment. Halting feature deployment for explicit user permission prompts post-verification. Automatic fallback loops to the last verified commit if runtime exceptions trigger.
+
 ### 📍 Phase 5: Voice Engine Matrix
 * **Objective:** Implement an offline auditory processing pipeline.
 * **Tech Stack:** Edge-TTS Module / Whisper Core.
